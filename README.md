@@ -6,7 +6,7 @@ A desktop application that can solve linear programming problems using the simpl
 
 Linear programming is a technique for optimizing a linear objective function subject to a set of linear constraints. The simplex method is an algorithm for finding the optimal solution of a linear programming problem, or determining that the problem is unbounded or infeasible.
 
-This project is a simplex calculator that can perform basic arithmetic operations using the simplex method and C# winforms. The user can enter the objective function and the constraints, and the program will display the optimal solution and the steps of the algorithm. The program also handles errors and exceptions, such as invalid input, unbounded or infeasible problems, and degeneracy cases.
+This project is a simplex calculator that can perform basic arithmetic operations using the simplex method and C# winforms. The user can enter the objective function and the constraints, and the program will display the optimal solution and the steps of the algorithm.
 
 ## Installation and Usage
 
@@ -35,9 +35,16 @@ To use the project, follow these steps:
 
 Here are some screenshots of the project:
 
+Specifying the linear problem:
 ![First Window](/WinFormsApp1/Images/Form1.png?raw=true "Entering the linear problem")
+
+Standardized form and first tableau:
 ![Solution](/WinFormsApp1/Images/Form2_1.png?raw=true "Standard form and first table")
+
+Simplex method Iterations:
 ![Solution](/WinFormsApp1/Images/Form2_2.png?raw=true "Simplex method Iterations")
+
+The optimal solution:
 ![Solution](/WinFormsApp1/Images/Form2_3.png?raw=true "The optimal solution")
 
 ## Disclaimer
@@ -55,7 +62,3 @@ This project is open for contributions. If you want to contribute, please follow
 - Wait for the maintainers to review and merge your pull request.
 
 Please write clear and concise commit messages.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE] file for more details.
