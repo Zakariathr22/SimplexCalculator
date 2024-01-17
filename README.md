@@ -10,7 +10,7 @@ This project is a simplex calculator that can perform basic arithmetic operation
 
 ## Installation and Usage
 
-To install and run this project, you will need Visual Studio and the .NET Framework, which are tools for developing Windows applications. You can download them from these web pages: [Visual Studio](^1^), [.NET Framework](^2^).
+To install and run this project, you will need Visual Studio and the .NET Framework, which are tools for developing Windows applications. You can download them from these web pages: [Visual Studio](https://visualstudio.microsoft.com/), [.NET Framework](https://dotnet.microsoft.com/en-us/).
 
 To install the project, follow these steps:
 
