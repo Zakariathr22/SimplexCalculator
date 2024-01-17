@@ -35,16 +35,16 @@ To use the project, follow these steps:
 
 Here are some screenshots of the project:
 
-Specifying the linear problem:
+- Specifying the linear problem:
 ![First Window](/WinFormsApp1/Images/Form1.png?raw=true "Entering the linear problem")
 
-Standardized form and first tableau:
+- Standardized form and first tableau:
 ![Solution](/WinFormsApp1/Images/Form2_1.png?raw=true "Standard form and first table")
 
-Simplex method Iterations:
+- Simplex method Iterations:
 ![Solution](/WinFormsApp1/Images/Form2_2.png?raw=true "Simplex method Iterations")
 
-The optimal solution:
+- The optimal solution:
 ![Solution](/WinFormsApp1/Images/Form2_3.png?raw=true "The optimal solution")
 
 ## Disclaimer
